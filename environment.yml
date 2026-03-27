@@ -22,3 +22,4 @@ dependencies:
       - python-dateutil==2.9.0.post0
       - packaging>=23.0
       - tqdm==4.66.2
+      - streamlit-autorefresh
